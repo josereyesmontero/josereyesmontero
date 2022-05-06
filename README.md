@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josereyesmontero&label=Profile%20views&color=0e75b6&style=flat" alt="josereyesmontero" /> </p>
 
 <a href="https://mail.google.com/mail/josereyesmontero" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://wa.me/<56948938347>" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="josereyesmontero" /></a>
-<a href="www.linkedin.com/in/josereyesmontero" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="josereyesmontero" /></a>
+<a href="https://wa.me/<+56948938347>" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="josereyesmontero" /></a>
+<a href="https://linkedin.com/in/josereyesmontero" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="josereyesmontero" /></a>
 <a href="https://twitter.com/JosAlessandroR3" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="josereyesmontero" /></a>
 
 
