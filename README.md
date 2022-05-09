@@ -2,6 +2,7 @@
 <h4 align="center">FullStack JavaScript Trainee 🖥️</h4>
 <h4 align="center">Acabo de terminar mi Bootcamp de Full Stack JavaScript, fue una experiencia increible!:thumbsup:</h4>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josereyesmontero&layout=compact)](https://github.com/josereyesmontero/github-readme-stats) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josereyesmontero&label=Profile%20views&color=0e75b6&style=flat" alt="josereyesmontero" /> </p>
 
 <h4 align="left">Contactame</h4>
@@ -14,7 +15,7 @@
 <a href="https://linkedin.com/in/josereyesmontero" target="blank"><img align="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="josereyesmontero" /></a>
 <a href="https://www.instagram.com/alefullstackjs/" target="blank"><img align="" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="josereyesmontero" /></a>
 <a href="https://twitter.com/JosAlessandroR3" target="blank"><img align="" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://github.com/josereyesmontero" target="blank"><img align="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="josereyesmontero" /></a>
+<a href="https://github.com/josereyesmontero" target="blank"><img align="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="josereyesmontero" /></a> 
 
 
 <h4 align="left">Lenguajes</h4>
