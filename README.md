@@ -29,6 +29,10 @@
 <a href="https://www.mysql.com/" target="blank"><img align="" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="josereyesmontero" /></a>
 <a href="https://www.postgresql.org/" target="blank"><img align="" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="josereyesmontero" /></a>
 
+<h4 align="left">Terminal</h4>
+<a href="https://git-scm.com/" target="blank"><img align="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="josereyesmontero" /></a>
+<a href="" target="blank"><img align="" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="josereyesmontero" /></a>
+
 
 <h4 align="left">Framewors</h4>
 <a href="https://getbootstrap.com/" target="blank"><img align="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="josereyesmontero" /></a>
@@ -44,6 +48,13 @@
 
 <h4 align="left">IDE</h4>
 <a href="https://code.visualstudio.com/" target="blank"><img align="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="josereyesmontero" /></a>
+
+<h4 align="left">Web Browsers </h4>
+<a href="https://www.mozilla.org/es-CL/firefox/new/" target="blank"><img align="" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="josereyesmontero" /></a>
+<a href="https://www.google.com/intl/es/chrome/" target="blank"><img align="" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="josereyesmontero" /></a>
+<a href="https://www.opera.com/es" target="blank"><img align="" src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="josereyesmontero" /></a>
+
+
 
 
 
