@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josereyesmontero&label=Profile%20views&color=0e75b6&style=flat" alt="josereyesmontero" /> </p>
 
 <h4 align="left">Contactame</h4>
-<a href="https://mail.google.com/mail/josereyesmontero" target="blank"><img align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="josereyesmontero" /></a>
+<a href="mailto:josereyesmontero@gmail.com" target="blank"><img align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="josereyesmontero" /></a>
 <a href="https://wa.me/56948938347" target="blank"><img align="" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="josereyesmontero" /></a>
 <a href="https://t.me/RodrigoCE3JRM" target="blank"><img align="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="josereyesmontero" /></a>
 
