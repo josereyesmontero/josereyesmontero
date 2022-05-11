@@ -1,61 +1,44 @@
-<h2 align="center">Hi 👋, I'm José Alessandro Reyes Montero</h1>
-<h4 align="center">FullStack JavaScript Trainee 🖥️</h4>
-<h4 align="center">Acabo de terminar mi Bootcamp de Full Stack JavaScript, fue una experiencia increible!:thumbsup:</h4>
+Hi 👋 My name is Alesandro Reyes Montero
+========================================
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josereyesmontero&layout=compact)](https://github.com/josereyesmontero/github-readme-stats) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josereyesmontero&label=Profile%20views&color=0e75b6&style=flat" alt="josereyesmontero" /> </p>
+FullStack JavaScript
+--------------------
 
-<h4 align="left">Contactame</h4>
-<a href="mailto:josereyesmontero@gmail.com" target="blank"><img align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://wa.me/56948938347" target="blank"><img align="" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://t.me/RodrigoCE3JRM" target="blank"><img align="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="josereyesmontero" /></a>
+Terminando el bootcamp de FullStack y con ganas de programar.
 
+* 🌍  I'm based in Santiago De Chile
+* ✉️  You can contact me at [josereyesmontero@gmail.com](mailto:josereyesmontero@gmail.com)
 
-<h4 align="left">Redes Sociales</h4>
-<a href="https://linkedin.com/in/josereyesmontero" target="blank"><img align="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://www.instagram.com/alefullstackjs/" target="blank"><img align="" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://twitter.com/JosAlessandroR3" target="blank"><img align="" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://github.com/josereyesmontero" target="blank"><img align="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="josereyesmontero" /></a> 
+<a href="https://www.github.com/josereyesmontero" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/josereyesmontero?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+### Skills
 
-<h4 align="left">Lenguajes</h4>
-<a href="https://lenguajehtml.com/html/" target="blank"><img align="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://lenguajecss.com/css/" target="blank"><img align="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://lenguajejs.com/javascript/" target="blank"><img align="" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="josereyesmontero" /></a>
-<a href="https://www.json.org/json-es.html" target="blank"><img align="" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="josereyesmontero" /></a>
-
-
-<h4 align="left">Base De Datos</h4>
-<a href="https://www.mysql.com/" target="blank"><img align="" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://www.postgresql.org/" target="blank"><img align="" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="josereyesmontero" /></a>
-
-<h4 align="left">Terminal</h4>
-<a href="https://git-scm.com/" target="blank"><img align="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="josereyesmontero" /></a>
-<a href="" target="blank"><img align="" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="josereyesmontero" /></a>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
 
 
-<h4 align="left">Framewors</h4>
-<a href="https://getbootstrap.com/" target="blank"><img align="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://www.docker.com/" target="blank"><img align="" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://expressjs.com/es/" target="blank"><img align="" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://fontawesome.com/" target="blank"><img align="" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://handlebarsjs.com/" target="blank"><img align="" src="https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black" alt="josereyesmontero" /></a>
-<a href="https://jquery.com/" target="blank"><img align="" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://jwt.io/" target="blank"><img align="" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://nodejs.org/es/" target="blank"><img align="" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://www.npmjs.com/" target="blank"><img align="" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://www.postman.com/" target="blank"><img align="" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="josereyesmontero" /></a>
+### Socials
 
-<h4 align="left">IDE</h4>
-<a href="https://code.visualstudio.com/" target="blank"><img align="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="josereyesmontero" /></a>
+<p align="left"> <a href="https://discord.com/users/AlessandroReyes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/josereyesmontero" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/alefullstackjs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/josereyesmontero" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/alessandro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/JosAlessandroR3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/alefullstackjs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-<h4 align="left">Web Browsers </h4>
-<a href="https://www.mozilla.org/es-CL/firefox/new/" target="blank"><img align="" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://www.google.com/intl/es/chrome/" target="blank"><img align="" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://www.opera.com/es" target="blank"><img align="" src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="josereyesmontero" /></a>
+### Badges
 
+<a href="https://github.com/josereyesmontero" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josereyesmontero&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<b>Top Repositories</b>
 
+<div width="100%" align="center"><a href="https://github.com/josereyesmontero/desafioRicomida" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=josereyesmontero&repo=desafioRicomida&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/josereyesmontero/desafioSuperHero" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=josereyesmontero&repo=desafioSuperHero&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+<br /><br /><br /><br /><br />
 
-
+<div width="100%" align="center"><a href="https://github.com/josereyesmontero/desafioBancoSolar" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=josereyesmontero&repo=desafioBancoSolar&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/josereyesmontero/pruebaFinalSkatePark" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=josereyesmontero&repo=pruebaFinalSkatePark&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
